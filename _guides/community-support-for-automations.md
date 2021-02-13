@@ -40,8 +40,8 @@ Include the type of contribution you’re looking for. For example:
 
 ### Additional resources:
 - GitHub guide: [Setting guidelines for repository contributors](https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors)
-   
- ---
+
+
 <a name="security"></a>
 ## SECURITY.md
 **The security.md file tells how people can safely report a security vulnerability in your automation.**
@@ -56,7 +56,6 @@ Include the type of contribution you’re looking for. For example:
 - GitHub guide: [Adding a security policy to your repository](https://docs.github.com/en/github/managing-security-vulnerabilities/adding-a-security-policy-to-your-repository)
 
 
----
 <a name="support"></a>
 ## SUPPORT.md
 **The support.md files lets people know how to get help implementing your automation**
@@ -71,7 +70,6 @@ Include the type of contribution you’re looking for. For example:
 - see GitHub [Adding support resources to your project](https://docs.github.com/en/github/building-a-strong-community/adding-support-resources-to-your-project) tutorial 
 
 
----
 <a name="readme"></a>
 ## README.md
 **Usually the first place developers look, so it should be fairly comprehensive with links to the other health files.**
@@ -89,7 +87,6 @@ Include the type of contribution you’re looking for. For example:
 - see GitHub's guide: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes
 
 
----
 <a name="licence"></a>
 ## LICENSE
 **We recommend GNU 2.0**
@@ -104,7 +101,6 @@ Include the type of contribution you’re looking for. For example:
 - see GitHub [Adding a license to a repository](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/adding-a-license-to-a-repository)
 
 
----
 <a name="codeofconduct"></a>
 ## CODE_OF_CONDUCT.md
 **When we create a new repo for you it will contain a Code of Conduct file for that you just need to edit to add your project name.**
@@ -123,8 +119,8 @@ If importing your automation from your own repository:
 ### Additional resources:
 - See GitHub [Adding a code of conduct to your project](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project)
 
-
-**END**
+---
+** End of Line **
 ---
 
 To propose/submit changes to this guide please [edit](https://github.com/100Automations/Website/blob/master/_guides/community-support-for-automations.md) the markdown file for this guide 
