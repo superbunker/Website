@@ -20,7 +20,7 @@ Additionally, we seek to reduce the amount of time that individual authors will 
 - [CODE_OF_CONDUCT.md](#codeofconduct)
 
 
----
+<br/>
 <a name="contributing"></a>
 ## CONTRIBUTING.md
 **The contributing.md file communicates how people should contribute to your project.**
@@ -41,7 +41,8 @@ Include the type of contribution you’re looking for. For example:
 ### Additional resources:
 - GitHub guide: [Setting guidelines for repository contributors](https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors)
 
----
+
+<br/>
 <a name="security"></a>
 ## SECURITY.md
 **The security.md file tells how people can safely report a security vulnerability in your automation.**
