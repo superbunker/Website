@@ -25,36 +25,36 @@ Additionally, we seek to reduce the amount of time that individual authors will 
 ## CONTRIBUTING.md
 The contributing.md file communicates how people should contribute to your project. 
 
-- Include the type of contribution you’re looking for:
-   - maintenance
-   - refactoring
-   - peer review
-   - advice
-   - coding
+Include the type of contribution you’re looking for:
+- maintenance
+- refactoring
+- peer review
+- advice
+- coding
 
 ### Template:
-[Default CONTRIBUTING.md](https://github.com/100Automations/.github-automations/blob/master/CONTRIBUTING.md) file from our template repository
+- [Default CONTRIBUTING.md](https://github.com/100Automations/.github-automations/blob/master/CONTRIBUTING.md) file from our template repository
 
 ### Example from a project:
-https://github.com/100Automations/true-github-contributors/blob/mixin/CONTRIBUTING.md
+- https://github.com/100Automations/true-github-contributors/blob/mixin/CONTRIBUTING.md
 
 ### Additional resources:
-   - GitHub guide: [Setting guidelines for repository contributors](https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors)
+- GitHub guide: [Setting guidelines for repository contributors](https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors)
    
  ---
 <a name="security"></a>
 
 ## SECURITY.md
-The security.md file tells how people can safely report a security vulnerability in your automation 
+- The security.md file tells how people can safely report a security vulnerability in your automation 
 
 ### Template:
-[Default SECURITY.md](https://github.com/100Automations/.github-automations/blob/master/SECURITY.md) file from our template repository
+- [Default SECURITY.md](https://github.com/100Automations/.github-automations/blob/master/SECURITY.md) file from our template repository
 
 ### Example from a project:
-https://github.com/100Automations/true-github-contributors/blob/mixin/SECURITY.md
+- https://github.com/100Automations/true-github-contributors/blob/mixin/SECURITY.md
 
 ### Additional resources:
-GitHub guide: [Adding a security policy to your repository](https://docs.github.com/en/github/managing-security-vulnerabilities/adding-a-security-policy-to-your-repository)
+- GitHub guide: [Adding a security policy to your repository](https://docs.github.com/en/github/managing-security-vulnerabilities/adding-a-security-policy-to-your-repository)
 
 ---
 <a name="support"></a>
@@ -63,19 +63,19 @@ GitHub guide: [Adding a security policy to your repository](https://docs.github.
 The support.md files lets people know how to get help implementing your automation 
 
 ### Template:
-[Default SUPPORT.md](https://github.com/100Automations/.github-automations/blob/master/SUPPORT.md) file from our template repository
+- [Default SUPPORT.md](https://github.com/100Automations/.github-automations/blob/master/SUPPORT.md) file from our template repository
 
 ### Example from a project:
-https://github.com/100Automations/true-github-contributors/blob/mixin/SUPPORT.md
+- https://github.com/100Automations/true-github-contributors/blob/mixin/SUPPORT.md
 
 ### Additional resources:
-see GitHub [Adding support resources to your project](https://docs.github.com/en/github/building-a-strong-community/adding-support-resources-to-your-project) tutorial 
+- see GitHub [Adding support resources to your project](https://docs.github.com/en/github/building-a-strong-community/adding-support-resources-to-your-project) tutorial 
 
 ---
 <a name="readme"></a>
 
 ## README.md
-a read.me file is usually the first place that developers will start.  It should be fairly comprehensive and should have links to the other health files.
+Usually the first place developers look, so it should be fairly comprehensive with links to the other health files.
 
 ### Guide:
 - 100 Automations Guide: [Creating a Good Read.me for Your Automation](https://github.com/100Automations/Website/blob/master/_guides/creating-good-readmes-for-automations.md)
@@ -106,9 +106,9 @@ We recommend GNU 2.0
 ---
 <a name="codeofconduct"></a>
 ## CODE_OF_CONDUCT.md
-We have set up the Code of Conduct for you already. When we create a new repo for you it will contain a file that you just need to edit to add your project name. Please do not edit any other details. If you have suggested revisions, please let us know by opening an [issue](https://github.com/100Automations/Website/issues/new?assignees=&labels=&template=blank-issue.md&title=).
+When we create a new repo for you it will contain a Code of Conduct file for that you just need to edit to add your project name. Please do not edit any other details. If you have suggested revisions, please let us know by opening an [issue](https://github.com/100Automations/Website/issues/new?assignees=&labels=&template=blank-issue.md&title=).
 
-Importing your automation from your own repository:
+If importing your automation from your own repository:
 - add our [default Code of Conduct](https://github.com/100Automations/.github/blob/master/CODE_OF_CONDUCT.md)
 
 ### Template:
