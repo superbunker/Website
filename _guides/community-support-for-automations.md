@@ -119,7 +119,8 @@ If importing your automation from your own repository:
 ### Additional resources:
 - See GitHub [Adding a code of conduct to your project](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project)
 
-<br>
+<br/>
+
 ---
 ## End of File
 
