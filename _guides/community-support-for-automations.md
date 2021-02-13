@@ -103,7 +103,7 @@ Include the type of contribution you’re looking for. For example:
 ---
 <a name="codeofconduct"></a>
 ## CODE_OF_CONDUCT.md
-**When we create a new repo for you it will contain a Code of Conduct file for that you just need to edit to add your project name.**
+**Your new repo will contain a Code of Conduct file--you just need to add your project name.**
 
 Please do not edit any other details. If you have suggested revisions, please let us know by opening an [issue](https://github.com/100Automations/Website/issues/new?assignees=&labels=&template=blank-issue.md&title=).
 
@@ -120,7 +120,7 @@ If importing your automation from your own repository:
 - See GitHub [Adding a code of conduct to your project](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project)
 
 ---
-**End of Line**
+**End**
 ---
 
 To propose/submit changes to this guide please [edit](https://github.com/100Automations/Website/blob/master/_guides/community-support-for-automations.md) the markdown file for this guide 
