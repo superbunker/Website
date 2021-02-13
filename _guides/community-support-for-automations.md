@@ -121,7 +121,6 @@ If importing your automation from your own repository:
 
 <br/>
 
----
 ## End of File
 
 To propose/submit changes please [edit](https://github.com/100Automations/Website/blob/master/_guides/community-support-for-automations.md) the markdown file for this guide 
