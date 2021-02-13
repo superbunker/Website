@@ -115,12 +115,11 @@ Include the type of contribution you’re looking for. For example:
 
 <a name="codeofconduct"></a>
 ## CODE_OF_CONDUCT.md
-**Your new repo will contain a Code of Conduct file--you just need to add your project name.**
+**Your new repo will contain a Code of Conduct file.**
 
-Please do not edit any other details. If you have suggested revisions, please let us know by opening an [issue](https://github.com/100Automations/Website/issues/new?assignees=&labels=&template=blank-issue.md&title=).
+You just need to add your project name. Please do not edit any other details. If you have suggested revisions, please let us know by opening an [issue](https://github.com/100Automations/Website/issues/new?assignees=&labels=&template=blank-issue.md&title=).
 
-If importing your automation from your own repository:
-- add our [default Code of Conduct](https://github.com/100Automations/.github/blob/master/CODE_OF_CONDUCT.md)
+If importing your automation from your own repository, add our [default Code of Conduct](https://github.com/100Automations/.github/blob/master/CODE_OF_CONDUCT.md)
 
 ### Template:
 - Default [CODE_OF_CONDUCT.md](https://github.com/100Automations/.github/blob/master/CODE_OF_CONDUCT.md) file from our template repository
