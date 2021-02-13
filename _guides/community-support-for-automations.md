@@ -21,6 +21,7 @@ Additionally, we seek to reduce the amount of time that individual authors will 
 
 
 <br/>
+
 <a name="contributing"></a>
 ## CONTRIBUTING.md
 **The contributing.md file communicates how people should contribute to your project.**
@@ -43,6 +44,7 @@ Include the type of contribution you’re looking for. For example:
 
 
 <br/>
+
 <a name="security"></a>
 ## SECURITY.md
 **The security.md file tells how people can safely report a security vulnerability in your automation.**
