@@ -21,9 +21,8 @@ Additionally, we seek to reduce the amount of time that individual authors will 
 
 ---
 <a name="contributing"></a>
-
 ## CONTRIBUTING.md
-The contributing.md file communicates how people should contribute to your project. 
+*The contributing.md file communicates how people should contribute to your project.* 
 
 Include the type of contribution you’re looking for:
 - maintenance
@@ -45,7 +44,7 @@ Include the type of contribution you’re looking for:
 <a name="security"></a>
 
 ## SECURITY.md
-- The security.md file tells how people can safely report a security vulnerability in your automation 
+*The security.md file tells how people can safely report a security vulnerability in your automation.*
 
 ### Template:
 - [Default SECURITY.md](https://github.com/100Automations/.github-automations/blob/master/SECURITY.md) file from our template repository
@@ -56,11 +55,11 @@ Include the type of contribution you’re looking for:
 ### Additional resources:
 - GitHub guide: [Adding a security policy to your repository](https://docs.github.com/en/github/managing-security-vulnerabilities/adding-a-security-policy-to-your-repository)
 
+
 ---
 <a name="support"></a>
-
 ## SUPPORT.md
-The support.md files lets people know how to get help implementing your automation 
+*The support.md files lets people know how to get help implementing your automation*
 
 ### Template:
 - [Default SUPPORT.md](https://github.com/100Automations/.github-automations/blob/master/SUPPORT.md) file from our template repository
@@ -73,9 +72,8 @@ The support.md files lets people know how to get help implementing your automati
 
 ---
 <a name="readme"></a>
-
 ## README.md
-Usually the first place developers look, so it should be fairly comprehensive with links to the other health files.
+*Usually the first place developers look, so it should be fairly comprehensive with links to the other health files.*
 
 ### Guide:
 - 100 Automations Guide: [Creating a Good Read.me for Your Automation](https://github.com/100Automations/Website/blob/master/_guides/creating-good-readmes-for-automations.md)
@@ -92,7 +90,7 @@ Usually the first place developers look, so it should be fairly comprehensive wi
 ---
 <a name="licence"></a>
 ## LICENSE
-We recommend GNU 2.0 
+*We recommend GNU 2.0*
 
 ### Template:
 - Default [LICENSE](https://github.com/100Automations/.github/blob/master/LICENSE) file from our template repository
@@ -106,7 +104,9 @@ We recommend GNU 2.0
 ---
 <a name="codeofconduct"></a>
 ## CODE_OF_CONDUCT.md
-When we create a new repo for you it will contain a Code of Conduct file for that you just need to edit to add your project name. Please do not edit any other details. If you have suggested revisions, please let us know by opening an [issue](https://github.com/100Automations/Website/issues/new?assignees=&labels=&template=blank-issue.md&title=).
+*When we create a new repo for you it will contain a Code of Conduct file for that you just need to edit to add your project name.*
+
+Please do not edit any other details. If you have suggested revisions, please let us know by opening an [issue](https://github.com/100Automations/Website/issues/new?assignees=&labels=&template=blank-issue.md&title=).
 
 If importing your automation from your own repository:
 - add our [default Code of Conduct](https://github.com/100Automations/.github/blob/master/CODE_OF_CONDUCT.md)
